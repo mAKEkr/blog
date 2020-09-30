@@ -9090,9 +9090,9 @@ vuepress-plugin-smooth-scroll@^0.0.3:
     smoothscroll-polyfill "^0.4.3"
 
 vuepress-theme-typewriter@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/vuepress-theme-typewriter/-/vuepress-theme-typewriter-1.0.0.tgz#af855717439b4a889232f156076492d258b60616"
-  integrity sha512-xuiTfi4Fatca9kdun/cZ2QaP+7gC0fanonJ3e/BNhJA0BuGF5UsGqkCoArjhHkvEGS/PtlRst/TR/Bp7IoR5TA==
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/vuepress-theme-typewriter/-/vuepress-theme-typewriter-1.0.1.tgz#a719e1dc4bb77e8c7e1f28ce4f0fccc09d8553ba"
+  integrity sha512-ez/d8MyXC/fJZRHMkwV8rgzqXm2/JBGBXobuYlLa05ecRgPeqhPqgUIrZZ4bp+1Ffkt7v/dj9dtROFZvfFHt4g==
   dependencies:
     "@vuepress/plugin-active-header-links" "^1.2.0"
     "@vuepress/plugin-blog" "^1.5.1"
