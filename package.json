@@ -21,6 +21,7 @@
     "vuepress-plugin-feed": "^0.1.7",
     "vuepress-plugin-medium-zoom": "^1.1.6",
     "vuepress-plugin-nprogress": "^1.1.4",
-    "vuepress-plugin-sitemap": "^2.3.0"
+    "vuepress-plugin-sitemap": "^2.3.0",
+    "vuepress-theme-typewriter": "^1.0.0"
   }
 }
