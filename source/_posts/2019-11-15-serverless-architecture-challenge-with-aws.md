@@ -48,7 +48,7 @@ date: 2019-11-15
 결국 서버리스 아키텍처로 하겠다는 내 욕심은 끝이 없었고 결과론적으로 프로젝트의 파일 배포는 2주나 밀리게 되었다. 게다가 프로젝트를 위해서 약 1달 넘게 개고생했던 내 예전 과거가 되돌아오는 느낌이였다. 넌 야근이다 임마 라는 내면의 악마가 속삭였다.
 
 ::: image
-![혼란스럽다](http://media.giphy.com/media/LgR0AnXJBrO4E/giphy.gif)
+![혼란스럽다](https://media.giphy.com/media/LgR0AnXJBrO4E/giphy.gif)
 ::: imageCaption
 처음보는 천장이다
 :::
