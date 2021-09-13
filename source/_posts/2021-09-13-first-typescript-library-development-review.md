@@ -19,6 +19,7 @@ yarn add @tradehelper/common
 내 돈이 오가는데 남이 짠 라이브러리는 절대 못믿겠다는 일념하에 내가 직접 라이브러리를 짜기도 어연 대여섯개의 거래소가 넘어가면서 점점 직접 짠 라이브러리들의 버전관리조차 안될 지경에 이르렀다.
 
 더이상 못참겠다라는 느낌으로 common library라는 이름으로 ECMAScript로 처음 시작한 프로젝트는, "아 타입스크립트 배워야지" 라는 일념 하나로 타입스크립트로 기반을 싹갈아엎고 프로젝트를 시작하게 되었다.
+
 ::: image
 ![table flip](https://media.giphy.com/media/6lScd4x2D5Oko/giphy.gif)
 ::: imageCaption
