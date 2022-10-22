@@ -24,6 +24,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Blog', link: '/' },
+      { text: 'Portfolio', link: 'https://hello.ake.kr/', outLink: true, newWindow: true },
       { text: 'Short Posts', link: 'https://shortpost.ake.kr/', outLink: true, newWindow: true }
     ],
     copyright: 'Copyright 2010-2019 AKE.kr all rights reserved.',
