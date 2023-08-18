@@ -61,9 +61,6 @@ module.exports = {
         }
       ]
     }],
-    ['@vuepress/google-analytics', {
-      ga: 'UA-51528367-1'
-    }],
     ['vuepress-plugin-sitemap', {
       hostname: 'https://ake.kr'
     }],
