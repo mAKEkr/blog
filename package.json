@@ -2,7 +2,6 @@
   "devDependencies": {
     "@vuepress/plugin-active-header-links": "^1.2.0",
     "@vuepress/plugin-blog": "^1.5.1",
-    "@vuepress/plugin-google-analytics": "^1.2.0",
     "normalize.css": "^8.0.1",
     "open-color": "^1.7.0",
     "vuepress": "^1.2.0",
