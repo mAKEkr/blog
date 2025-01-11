@@ -297,7 +297,7 @@ iframe에 `loading="lazy"`를 걸면 상당한 페이지 로드 개선효과도 
 
 조드는 휴일에 트래픽이 꺾이는 기이한(?) 커뮤니티라서, 관련하여 글을 작성하는 현재 비교하기엔 좋진 않지만, 결론적으로 클라우드플레어 피크트래픽 211GB에서 12GB로, 
 
-![image.png](image%2012.png)
+![image.png](https://f.ake.kr/2024-12-31-zod-kr-publish-after-2-month-review--services-and-server/image%2012.png)
 
 [Bunny.net](http://Bunny.net) 동일 날짜 기준으로 56GB까지 더해도 68GB정도로 방문자 수 대비 총 트래픽을 약 57%정도 절감하였으며, 
 
