@@ -3,7 +3,7 @@ title: zod.kr 개발 7개월, 오픈 5개월 후기 - CMS 선택 및 개발편
 subtitle: 밈으로 프로그래머 기피 1순위인 PHP로 만들어진지 10년도 다되어가는 CMS로 개발하는 이야기
 categories:
   - programming
-date: 2025-01-12
+date: 2025-04-02
 ---
 
 해당 게시물은 [zod.kr 개발 4개월, 오픈 2개월 후기 - 서버 및 서비스편](https://ake.kr/2025/01/12/zod-kr-publish-after-2-month-review-services-and-server/)에서 이어집니다.
